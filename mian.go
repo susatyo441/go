@@ -4,6 +4,6 @@ func SayHello(name string)  string{
 	return "Hello "+name 
 }
 
-func siu() string{
+func Say(name string) string{
 	return "siu"
 }
